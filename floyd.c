@@ -35,4 +35,3 @@ printf("\n");
 }
 printf("operation count:%d\n",count);
 }
-
